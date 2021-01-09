@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="detailes_et_model_hint">Details</string>
+    <string name="detailes_et_color_hint">Color</string>
+    <string name="detailes_et_dpl_hint">Distance per letter</string>
+    <string name="detailes_et_description_hint">Description</string>
+</resources>
